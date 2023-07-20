@@ -10,3 +10,4 @@ In the future, our group members may consider to found an academic conference Na
 
 Pascal Tikeng Notsawo Jr., Hattie Zhou, Mohammad Pezeshki, Irina Rish, Guillaume Dumas:
 Predicting Grokking Long Before it Happens: A look into the loss landscape of models which grok. CoRR abs/2306.13253 (2023)
+[link](https://arxiv.org/pdf/2306.13253)
